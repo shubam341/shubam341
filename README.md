@@ -1,4 +1,4 @@
-![logo](https://github.com/shubam341/shubam341/blob/main/banner.png)
+![logo](https://github.com/shubam341/shubam341/blob/main/banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Shubam</h1>
 <h3 align="center">A passionate Web developer from India</h3> 
 
