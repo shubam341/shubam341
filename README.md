@@ -1,4 +1,4 @@
-![logo](https://github.com/shubam341/shubam341/blob/main/banner%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Shubam</h1>
 <h3 align="center">A passionate Web developer from India</h3> 
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/shivam-ch-05a9182a0**
 
-- 📄 Know about my experiences [file:///C:/Users/SHUBAM%20CHOUDHARY/Downloads/Shubam_Choudhary(Full_Stack).pdf](file:///C:/Users/SHUBAM%20CHOUDHARY/Downloads/Shubam_Choudhary(Full_Stack).pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
