@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react ,nodejs**
 
-- 📫 How to reach me **www.linkedin.com/in/shivam-ch-05a9182a0**
+- 📫 How to reach me **www.linkedin.com/in/shubam-choudhary-b27013327**
 
 
 
