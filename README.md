@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubam341" alt="shubam341" /></a> </p>
 
-[![An image of @shubam341's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubam341)](https://holopin.io/@shubam341)
+
 
 
 - 👨‍💻 All of my projects are available at [my-portfolio-seven-pearl-22.vercel.app/](https://my-portfolio-seven-pearl-22.vercel.app/)
